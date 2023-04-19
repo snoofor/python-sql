@@ -14,7 +14,7 @@ import time
 
 # Parameters for Connection
 db_tp = (r"Driver={ODBC Driver 17 for SQL Server};"  # odbc database source is 2017
-         r"Server=DESKTOP-P08L89R;"
+         r"Server=DESKTOP-D42F74B;"
          r"Database=AdventureWorksDW2019;"
          r"UID=db-python;"
          r"PWD=12345;")
